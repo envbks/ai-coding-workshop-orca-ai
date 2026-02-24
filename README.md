@@ -24,8 +24,8 @@
 
 ### 🔍 Internals & Reference
 
-- [Claude Code system prompt (leaked)](https://github.com/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-code.md) — Community-extracted Claude Code system prompt for reference
+- [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks) — Community-collected leaked system prompts from various AI tools and providers
 
 ### 🎥 Video
 
-- [AI Coding Workshop Video](https://www.youtube.com/watch?v=TqC1qOfiVcQ) — Workshop recording
+- [Claude Agent SDK](https://www.youtube.com/watch?v=TqC1qOfiVcQ) — Introduction to the Claude Agent SDK
